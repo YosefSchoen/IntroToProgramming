@@ -1,0 +1,9 @@
+100 Yosef 60
+101 Dovid 80
+102 Saleem 75
+103 Malachi 55
+104 Mahmud 30
+105 Kyle 40
+106 Enrique 70
+107 Santiago 90
+108 Wonglee 85

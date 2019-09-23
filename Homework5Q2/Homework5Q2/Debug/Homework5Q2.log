@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework5q2\homework5q2\source.cpp(17): warning C4715: 'perfect': not all control paths return a value
+  Homework5Q2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework5Q2\Debug\Homework5Q2.exe
+  Homework5Q2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework5Q2\Debug\Homework5Q2.pdb (Full PDB)

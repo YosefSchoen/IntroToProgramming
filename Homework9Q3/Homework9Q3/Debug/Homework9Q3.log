@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework9q3\homework9q3\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q3\homework9q3\source.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q3\homework9q3\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q3\homework9q3\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Homework9Q3.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q3\Debug\Homework9Q3.exe
+  Homework9Q3.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q3\Debug\Homework9Q3.pdb (Full PDB)

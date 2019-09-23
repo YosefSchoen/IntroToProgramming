@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework5q1\homework5q1\source.cpp(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Homework5Q1.vcxproj -> c:\users\josep\documents\visual studio 2015\Projects\Homework5Q1\Debug\Homework5Q1.exe
+  Homework5Q1.vcxproj -> c:\users\josep\documents\visual studio 2015\Projects\Homework5Q1\Debug\Homework5Q1.pdb (Full PDB)

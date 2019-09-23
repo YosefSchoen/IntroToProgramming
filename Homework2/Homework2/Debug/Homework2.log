@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework2\homework2\source.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Homework2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework2\Debug\Homework2.pdb (Full PDB)

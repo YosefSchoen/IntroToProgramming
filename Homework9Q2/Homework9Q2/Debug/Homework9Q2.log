@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework9q2\homework9q2\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q2\homework9q2\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q2\homework9q2\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q2\homework9q2\source.cpp(28): warning C4101: 'NewSentence': unreferenced local variable
+  Homework9Q2.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q2\Debug\Homework9Q2.exe
+  Homework9Q2.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q2\Debug\Homework9Q2.pdb (Full PDB)

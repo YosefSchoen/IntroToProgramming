@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(22): warning C4715: 'printAll': not all control paths return a value
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(42): warning C4715: 'searchStr': not all control paths return a value
+c:\users\josep\documents\visual studio 2015\projects\homework9q4\homework9q4\source.cpp(51): warning C4715: 'printChar': not all control paths return a value
+  Homework9Q4.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q4\Debug\Homework9Q4.exe
+  Homework9Q4.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework9Q4\Debug\Homework9Q4.pdb (Full PDB)

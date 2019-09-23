@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework6q1\homework6q1\source.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Homework6Q1.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework6Q1\Debug\Homework6Q1.exe
+  Homework6Q1.vcxproj -> C:\Users\josep\documents\visual studio 2015\Projects\Homework6Q1\Debug\Homework6Q1.pdb (Full PDB)
